@@ -9,7 +9,7 @@ Für uns angepasster und kommentierter Styleguide. Berücksichtigt dabei den Ein
 ## Table of Contents
 
   1. [Single Responsibility](#single-responsibility)
-  1. [IIFE (changed)](#iife)
+  1. [IIFE](#iife) changed
   1. [Modules](#modules)
   1. [Controllers](#controllers)
   1. [Services](#services)
@@ -96,8 +96,8 @@ Für uns angepasster und kommentierter Styleguide. Berücksichtigt dabei den Ein
 
 **[Back to top](#table-of-contents)**
 
-## IIFE (changed)
-### JavaScript Closures -> TypeScript Namespaces
+## IIFE
+### JavaScript Closures
 ######[Comma C01] Durch die Verwendung von TypeScript Namespaces werden automatisch IIFEs erzeugt.
 
 ###### [Style [Y010](#style-y010)]
