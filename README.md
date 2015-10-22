@@ -1,4 +1,4 @@
-# Angular Style Guide
+# Angular Style Guide - Comma Flavor
 
 *Opinionated Angular style guide for teams by [@john_papa](//twitter.com/john_papa)*
 
