@@ -1,6 +1,6 @@
 # Angular Style Guide for INFONEA Solutions
 
-*Orignal by [@john_papa](//twitter.com/john_papa)*
+*Original by [@john_papa](//twitter.com/john_papa)*
 
 
 ## Kommentierter Styleguide
