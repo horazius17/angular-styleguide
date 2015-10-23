@@ -692,6 +692,7 @@ Für uns angepasster und kommentierter Styleguide. Berücksichtigt dabei den Ein
 
 ### Singletons
 ###### [Style [Y040](#style-y040)]
+###### [Comma [C02]]] Type Script Variante nur: Services benutzen
 
   - Services are instantiated with the `new` keyword, use `this` for public methods and variables. Since these are so similar to factories, use a factory instead for consistency.
 
